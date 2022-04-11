@@ -2,7 +2,7 @@
 
 [![web](https://img.shields.io/static/v1?logo=heroku&message=Online&label=Heroku&color=430098)](https://assignment-7-pokemon-trainer.herokuapp.com)
 
-![image](https://user-images.githubusercontent.com/96972844/161380752-a3f8fd8e-6d42-46f8-9128-6af356a1c3e7.png)
+![image](https://user-images.githubusercontent.com/96972844/162694437-d268bfb8-ad59-4452-ab19-2562d3e3f210.png)
 
 The Pokemon Trainer project is a application that let's the user choose/catch pokemon from a catalogue and show it on the user profile using the Angular framework. The project is an assignment that's part of the Noroff Full stack Java Developers course.
 
